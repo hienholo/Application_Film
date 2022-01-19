@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var COUNTER_CHANGE = 'COUNTER_CHANGE';","map":{"version":3,"sources":["C:/Users/Décastel/Documents/CoursReactNative-main/constants/index.js"],"names":["COUNTER_CHANGE"],"mappings":"AAAA,OAAO,IAAMA,cAAc,GAAG,gBAAvB","sourcesContent":["export const COUNTER_CHANGE = 'COUNTER_CHANGE'"]},"metadata":{},"sourceType":"module"}
